@@ -106,6 +106,7 @@ sns.countplot(data=df_encoded, x='isFraud', hue='anomination_isolation')
 plt.title('Actual vs Predicted Fraud (Isolation Forest)')
 plt.show()
 ```
+![Visualization](
 ## About Me
 Rithika R
 📌 Data Analyst | SQL | Python | Tableau | Power BI | Excel
