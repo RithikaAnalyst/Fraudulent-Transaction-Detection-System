@@ -110,6 +110,6 @@ plt.show()
 ## About Me
 Rithika R
 📌 Data Analyst | SQL | Python | Tableau | Power BI | Excel
-🔗 ![LinkedIn](https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/) • ![GitHub](
+🔗 ![LinkedIn](https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/) • ![GitHub](https://github.com/settings/profile)
 
 
