@@ -64,7 +64,7 @@ CREATE TABLE transactions (
     isFlaggedFraud TINYINT
 );
 ```
-The Python is defined in [`fraud detection`](./bank.sql):
+The Python is defined in [`fraud detection`][(./fraud detection):
 ``` python
 # Connecting sql and python
 engine = create_engine("mysql+pymysql://root:newpassword123@localhost/bank_fraud_detetion")
