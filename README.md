@@ -38,7 +38,9 @@ The objective of this project is to identify potential fraud in a bank’s trans
 ---
 📁 fraud-detection-sql-python/
 ├── bank.sql               # SQL schema & dataset import
+
 ├── fraud detection.py     # Python script with detection logic
+
 ├── README.md              # Project documentation
 
 
