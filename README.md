@@ -110,9 +110,12 @@ plt.title('Actual vs Predicted Fraud (Isolation Forest)')
 plt.show()
 ```
 ![Visualization](graph.png)
-## About Me
-Rithika R
-📌 Data Analyst | SQL | Python | Tableau | Power BI | Excel
+## Author
+Developed by [Rithika R]
+
+📧 Contact: [rithikaramalingam37@gmail.com]
+
+💼 Aspiring Data Analyst | Data Engineer
 🔗 ![LinkedIn](https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/) • ![GitHub](https://github.com/settings/profile)
 
 
